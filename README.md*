@@ -1,0 +1,18 @@
+# Fusion Caméra-LiDAR
+
+Système de fusion caméra-LiDAR pour la détection et la localisation de lignes en environnement agricole.
+
+## Technologies utilisées
+- ROS 2 Humble
+- YOLOv8-seg
+- OpenCV
+- Python
+
+## Auteurs
+- Amin Ben Mahmoud
+- Eya Hbaieb
+- Yosr Hammami
+
+## Encadrants
+- Hanene Medhaffar
+- Faten Cherni
